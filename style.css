@@ -1,0 +1,14 @@
+table,th,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-color:tomato ;
+}
+th{
+    color:teal;
+}
+body{
+    background-color:silver;
+}
+ h1{
+    color: blueviolet;
+ }
